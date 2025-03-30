@@ -76,6 +76,7 @@ oploverz.*###teaser1
 oploverz.*###teaser2
 oploverz.*###teaser3
 oploverz.*###overplay
+oploverz.*##div.section.widget_text
 oploverz.*##+js(acs, $, popup)
 oploverz.*##+js(nostif, popup)
 
