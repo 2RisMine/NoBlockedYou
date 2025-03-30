@@ -62,9 +62,13 @@ samehadaku.*##[href^="https://t.ly/"]
 samehadaku.*##img[style="width: 50%; height: 70px;"]
 
 !otakudesu
+otakudesu.*###overplay
+otakudesu.*##div.iklan
+otakudesu.*##.iklanpost
 otakudesu.*###iklanbawah
-*.gif$domain=otakudesu.*,image
 otakudesu.*##.box_item_ads_popup
+otakudesu.*##+js(nowoif)
+otakudesu.*##+js(acis, document.oncontextmenu)
 
 !oploverz
 oploverz.*##.kln
@@ -79,7 +83,7 @@ oploverz.*##+js(nostif, popup)
 tukangkomik.*##+js(nowoif)
 
 ! Image Blocked
-.gif$image,domain=oploverz.*|id.shinigami.*|anoboy.*
+.gif$image,domain=oploverz.*|id.shinigami.*|anoboy.*|otakudesu.*
 
 ! Media blocked
 ||vacdn.tsyndicate.com^$media
