@@ -1,28 +1,20 @@
 ! Title: F Blocked
-! Last modified: Fri, 29 Mar 2025
+! Last modified: Fri, 31 Mar 2025
 
 !anoboy
 anoboy.*###ad_box
-anoboy.*##.sidebar
 anoboy.*###ad_bawah
-anoboy.*##div#judi:nth-of-type(3)
-anoboy.*##div#judi:nth-of-type(4)
+anoboy.*##.sidebar
+anoboy.*##div#judi
+anoboy.*##div#judi2
 anoboy.*###coloma
-anoboy.*##[href="https://avenue56dancestudios.com/"]
-anoboy.*##div#judi2:nth-of-type(11)
-anoboy.*##div#judi2:nth-of-type(12)
-anoboy.*##div#judi2:nth-of-type(13)
-anoboy.*##div#judi2:nth-of-type(14)
 anoboy.*##div:nth-of-type(16)
+anoboy.*###navigasi > a:nth-child(2)
 
 !cosmic
-cosmic345.*###teaser3
+cosmic345.*##.kln
 cosmic345.*###floatcenter
-cosmic345.*##.kln.mlb.blox
-cosmic345.*##div.kln:nth-of-type(1)
-cosmic345.*##div.kln:nth-of-type(5)
-cosmic345.*##div.kln:nth-of-type(3)
-cosmic345.*##div.kln:nth-of-type(6)
+cosmic345.*###close-teaser
 cosmic345.*##.code-block-1.code-block
 
 !KomikCast
@@ -31,17 +23,22 @@ komikcast02.*###teaser3
 komikcast02.*###teaser4
 komikcast02.*##+js(aopr, open)
 
-!kiryuu
-kiryuu.*##.kln
-kiryuu.*##.kln.mlb.blox
-kiryuu.*###teaserbottom
-kiryuu.*##div.kln:nth-of-type(1)
-kiryuu.*##div.kln:nth-of-type(3)
-kiryuu.*##+js(nowoif)
+!Kiryuu
+kiryuu01.*##.kln
+kiryuu01.*###teaserbottom
+kiryuu01.*##+js(nowoif)
 
-!komikindo
+!Komikindo
 komikindo2.*##.gulai_asam_manis
 komikindo2.*##^script[data-cfasync][data-rocket-src]:not([data-rocket-src*="komikindo2.*"])
+
+!Komikstation
+komikstation.*##.kln
+komikstation.*##+js(nowoif)
+
+!Komiku
+komiku.*##.kln
+komiku.*###close-teaser
 
 !Idlix
 vip2.idlixvip.asia##.asgdc
@@ -72,10 +69,8 @@ otakudesu.*##+js(acis, document.oncontextmenu)
 
 !oploverz
 oploverz.*##.kln
-oploverz.*###teaser1
-oploverz.*###teaser2
-oploverz.*###teaser3
 oploverz.*###overplay
+oploverz.*###close-teaser
 oploverz.*##div.section.widget_text
 oploverz.*##+js(acs, $, popup)
 oploverz.*##+js(nostif, popup)
