@@ -1,5 +1,5 @@
-! Title: F Blocked
-! Last modified: Fri, 31 Mar 2025
+! Title: NoBlockedYou
+! Last modified: Fri, 1 Apr 2025
 
 !anoboy
 anoboy.*###ad_box
@@ -17,39 +17,44 @@ cosmic345.*###floatcenter
 cosmic345.*###close-teaser
 cosmic345.*##.code-block-1.code-block
 
-!KomikCast
+!komikCast
 komikcast02.*##.kln
 komikcast02.*###teaser3
 komikcast02.*###teaser4
 komikcast02.*##+js(aopr, open)
 
-!Kiryuu
+!kiryuu
 kiryuu01.*##.kln
 kiryuu01.*###teaserbottom
 kiryuu01.*##+js(nowoif)
 
-!Komikindo
+!komikindo
 komikindo2.*##.gulai_asam_manis
 komikindo2.*##^script[data-cfasync][data-rocket-src]:not([data-rocket-src*="komikindo2.*"])
 
-!Komikstation
+!komikstation
 komikstation.*##.kln
 komikstation.*##+js(nowoif)
 
-!Komiku
+!komiku
 komiku.*##.kln
 komiku.*###close-teaser
 
-!Idlix
-vip2.idlixvip.asia##.asgdc
-vip2.idlixvip.asia##.kalongkalongrow
+!nontonanimeid
+nontonanimeid.*##.banner_player
+nontonanimeid.*##.floating_footer
+nontonanimeid.*##div[class^="adspost"]
 
-!Shinigami
-id.shinigami.*##.gap-4.md\:gap-4.md\:grid-cols-2.grid-cols-1.grid
-id.shinigami.*##.lg\:gap-4.gap-4.md\:grid-cols-1.grid-cols-1.grid
-id.shinigami.*##+js(set-session-storage-item, showAds, -9999)
+!idlix
+idlixvip.*##.asgdc
+idlixvip.*##.kalongkalongrow
 
-!Samehadaku
+shinigami
+shinigami.*##.gap-4.md\:gap-4.md\:grid-cols-2.grid-cols-1.grid
+shinigami.*##.lg\:gap-4.gap-4.md\:grid-cols-1.grid-cols-1.grid
+shinigami.*##+js(set-session-storage-item, showAds, -9999)
+
+!samehadaku
 samehadaku.*##.post-body > [href]
 
 !otakudesu
@@ -69,14 +74,14 @@ oploverz.*##div.section.widget_text
 oploverz.*##+js(acs, $, popup)
 oploverz.*##+js(nostif, popup)
 
-!TukangKomik
+!tukangKomik
 tukangkomik.*##+js(nowoif)
 
-! Image Blocked
+! image Blocked
 .gif$image,domain=oploverz.*|id.shinigami.*|anoboy.*|otakudesu.*
 
-! Media blocked
+! media blocked
 ||vacdn.tsyndicate.com^$media
 
-! Anti popups
+! anti popups
 *$popup,domain=komikcast02.*|kiryuu.*|komikindo2.*|apkomik.*|otakudesu.*
