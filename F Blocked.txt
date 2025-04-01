@@ -50,13 +50,7 @@ id.shinigami.*##.lg\:gap-4.gap-4.md\:grid-cols-1.grid-cols-1.grid
 id.shinigami.*##+js(set-session-storage-item, showAds, -9999)
 
 !Samehadaku
-samehadaku.*###floatbottom
-samehadaku.*###floatcenter
-samehadaku.*##.ads
-samehadaku.*##.adsrow
-samehadaku.*##.kln
-samehadaku.*##[href^="https://t.ly/"]
-samehadaku.*##img[style="width: 50%; height: 70px;"]
+samehadaku.*##.post-body > [href]
 
 !otakudesu
 otakudesu.*###overplay
@@ -85,4 +79,4 @@ tukangkomik.*##+js(nowoif)
 ||vacdn.tsyndicate.com^$media
 
 ! Anti popups
-*$popup,domain=komikcast02.*|kiryuu.*|komikindo2.*|apkomik.*
+*$popup,domain=komikcast02.*|kiryuu.*|komikindo2.*|apkomik.*|otakudesu.*
