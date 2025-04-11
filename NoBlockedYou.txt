@@ -1,5 +1,6 @@
 ! Title: NoBlockedYou
-! Last modified: Fri, 4 Apr 2025
+! Last modified: Fri, 11 Apr 2025
+! Homepage: https://github.com/2RisMine/NoBlockedYou
 
 !anoboy
 anoboy.*###ad_box
@@ -26,6 +27,7 @@ komikcast02.*##+js(aopr, open)
 !kiryuu
 kiryuu01.*##.kln
 kiryuu01.*###teaserbottom
+kiryuu01.*##div.section.widget_text:nth-of-type(1)
 kiryuu01.*##+js(nowoif)
 
 !komikindo
