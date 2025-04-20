@@ -77,13 +77,9 @@ oploverz.*##+js(acs, $, popup)
 oploverz.*##+js(nostif, popup)
 
 !tukangKomik
+tukangkomik.*##.kln
+tukangkomik.*###close-teaser
 tukangkomik.*##+js(nowoif)
 
 ! image Blocked
 .gif$image,domain=oploverz.*|id.shinigami.*|anoboy.*|otakudesu.*
-
-! media blocked
-||vacdn.tsyndicate.com^$media
-
-! anti popups
-*$popup,domain=komikcast02.*|kiryuu.*|komikindo2.*|apkomik.*|otakudesu.*
