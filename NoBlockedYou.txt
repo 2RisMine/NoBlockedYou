@@ -91,6 +91,7 @@ yourupload.*##+js(abort-on-property-write, _pop)
 !Script
 ||gc.squidsveena.com^
 ||is.cesarebientt.com^
+||bj.eidersrettory.com^
 ||grotzenzelotic.com/1clkn/$script
 ||fb.knolledhard.com/1clkn/$script
 ||stats.esecured.net/matomo.js$script
