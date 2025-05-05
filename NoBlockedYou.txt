@@ -82,10 +82,14 @@ tukangkomik.*##.kln
 tukangkomik.*###close-teaser
 tukangkomik.*##+js(nowoif)
 
+!PopUp
+yourupload.*##+js(abort-on-property-write, _pop)
+
 ! image Blocked
 .gif$image,domain=oploverz.*|id.shinigami.*|anoboy.*|otakudesu.*
 
 !Script
+||gc.squidsveena.com^
 ||is.cesarebientt.com^
 ||grotzenzelotic.com/1clkn/$script
 ||fb.knolledhard.com/1clkn/$script
