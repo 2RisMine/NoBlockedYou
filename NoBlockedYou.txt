@@ -1,5 +1,5 @@
 ! Title: NoBlockedYou
-! Last modified: Monday, 5 Mei 2025
+! Last modified: 6 Mei 2025
 ! Homepage: https://github.com/2RisMine/NoBlockedYou
 
 !anoboy
@@ -46,6 +46,7 @@ komiku.*###close-teaser
 nontonanimeid.*##.banner_player
 nontonanimeid.*##.floating_footer
 nontonanimeid.*##div[class^="adspost"]
+nontonanimeid.*##.notice-iklan.redtext.tagpst1
 
 !idlix
 idlixvip.*##.asgdc
@@ -85,6 +86,9 @@ tukangkomik.*##+js(nowoif)
 .gif$image,domain=oploverz.*|id.shinigami.*|anoboy.*|otakudesu.*
 
 !Script
+||is.cesarebientt.com^
+||grotzenzelotic.com/1clkn/$script
 ||fb.knolledhard.com/1clkn/$script
+||stats.esecured.net/matomo.js$script
 ||odvidhide.com/player/jw8/vast.js$script,1p
 ||odvidhide.com/assets/jquery/css.js$script,1p
