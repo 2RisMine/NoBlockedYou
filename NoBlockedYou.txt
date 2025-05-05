@@ -1,5 +1,5 @@
 ! Title: NoBlockedYou
-! Last modified: Fri, 11 Apr 2025
+! Last modified: Monday, 5 Mei 2025
 ! Homepage: https://github.com/2RisMine/NoBlockedYou
 
 !anoboy
@@ -83,3 +83,8 @@ tukangkomik.*##+js(nowoif)
 
 ! image Blocked
 .gif$image,domain=oploverz.*|id.shinigami.*|anoboy.*|otakudesu.*
+
+!Script
+||fb.knolledhard.com/1clkn/$script
+||odvidhide.com/player/jw8/vast.js$script,1p
+||odvidhide.com/assets/jquery/css.js$script,1p
