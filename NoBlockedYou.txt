@@ -1,5 +1,5 @@
 ! Title: NoBlockedYou
-! Last modified: 8 Mei 2025
+! Last modified: 9 Mei 2025
 ! Homepage: https://github.com/2RisMine/NoBlockedYou
 
 !anoboy
@@ -49,6 +49,7 @@ nontonanimeid.*##div[class^="adspost"]
 nontonanimeid.*##.notice-iklan.redtext.tagpst1
 
 !idlix
+idlixvip.*##.row
 idlixvip.*##.asgdc
 idlixvip.*##.kalongkalongrow
 idlixvip.*##.module_single_ads
