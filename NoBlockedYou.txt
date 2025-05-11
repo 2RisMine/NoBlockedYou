@@ -91,11 +91,25 @@ yourupload.*##+js(abort-on-property-write, _pop)
 .gif$image,domain=oploverz.*|id.shinigami.*|anoboy.*|otakudesu.*
 
 !Script
+||bohawnahum.top^
+||oh.oleggurge.com^
+||chyazicchafe.top^
+||faqirsgoliard.top^
+||sk.cohibitegos.com^
 ||gc.squidsveena.com^
 ||grotzenzelotic.com^
 ||fb.knolledhard.com^
 ||is.cesarebientt.com^
 ||bj.eidersrettory.com^
+||urgentlyrightypast.com^
+||abor.aklmjylamvkbm.top^
+||appointeeivyspongy.com^
+||petargumentswhirlpool.com^
+||5eff937764.e487a41ae0.com^
+||divisiondrearilyunfiled.com^
+||www.highperformanceformat.com^
+||pl22277165.profitablecpmrate.com^
+||pl26571917.profitableratecpm.com^
 ||stats.esecured.net/matomo.js$script
 ||odvidhide.com/player/jw8/vast.js$script
 ||odvidhide.com/assets/jquery/css.js$script
