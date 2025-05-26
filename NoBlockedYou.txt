@@ -97,6 +97,7 @@ yourupload.*##+js(abort-on-property-write, _pop)
 .gif$image,domain=oploverz.*|id.shinigami.*|anoboy.*|otakudesu.*
 
 !Script
+||theetheks.com^
 ||bohawnahum.top^
 ||oh.oleggurge.com^
 ||chyazicchafe.top^
@@ -108,12 +109,15 @@ yourupload.*##+js(abort-on-property-write, _pop)
 ||fb.knolledhard.com^
 ||oh.natterresail.com^
 ||is.cesarebientt.com^
+||platform.pubadx.one^
+||cdn.pubfuture-ad.com^
 ||bj.eidersrettory.com^
 ||urgentlyrightypast.com^
 ||abor.aklmjylamvkbm.top^
 ||appointeeivyspongy.com^
 ||petargumentswhirlpool.com^
 ||5eff937764.e487a41ae0.com^
+||cdn.runative-syndicate.com^
 ||divisiondrearilyunfiled.com^
 ||www.highperformanceformat.com^
 ||pl22277165.profitablecpmrate.com^
