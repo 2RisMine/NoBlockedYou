@@ -18,6 +18,12 @@ cosmic345.*###floatcenter
 cosmic345.*###close-teaser
 cosmic345.*##.code-block-1.code-block
 
+!colamanga
+colamanga.*##iframe
+colamanga.*##.PUBFUTURE
+colamanga.*##.bg-ssp-10719
+colamanga.*##.mn-related-container
+
 !komikCast
 komikcast02.*##.kln
 komikcast02.*###teaser3
@@ -95,6 +101,7 @@ yourupload.*##+js(abort-on-property-write, _pop)
 ||oh.oleggurge.com^
 ||chyazicchafe.top^
 ||faqirsgoliard.top^
+||tenserrelents.com^
 ||sk.cohibitegos.com^
 ||gc.squidsveena.com^
 ||grotzenzelotic.com^
