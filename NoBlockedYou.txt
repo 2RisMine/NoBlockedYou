@@ -1,5 +1,5 @@
 ! Title: NoBlockedYou
-! Last modified: 27 Mei 2025
+! Last modified: 28 Mei 2025
 ! Homepage: https://github.com/2RisMine/NoBlockedYou
 
 !anoboy
@@ -97,6 +97,7 @@ yourupload.*##+js(abort-on-property-write, _pop)
 .gif$image,domain=oploverz.*|id.shinigami.*|anoboy.*|otakudesu.*
 
 !Script
+||cdn.ouo.io^
 ||theetheks.com^
 ||bohawnahum.top^
 ||oh.oleggurge.com^
