@@ -101,6 +101,7 @@ yourupload.*##+js(abort-on-property-write, _pop)
 ||bohawnahum.top^
 ||oh.oleggurge.com^
 ||chyazicchafe.top^
+||private-hide.com^
 ||faqirsgoliard.top^
 ||tenserrelents.com^
 ||sk.cohibitegos.com^
@@ -115,6 +116,7 @@ yourupload.*##+js(abort-on-property-write, _pop)
 ||urgentlyrightypast.com^
 ||abor.aklmjylamvkbm.top^
 ||appointeeivyspongy.com^
+||e2a4ad946f.e7903973a7.com^
 ||petargumentswhirlpool.com^
 ||5eff937764.e487a41ae0.com^
 ||cdn.runative-syndicate.com^
@@ -125,4 +127,5 @@ yourupload.*##+js(abort-on-property-write, _pop)
 ||stats.esecured.net/matomo.js$script
 ||odvidhide.com/player/jw8/vast.js$script
 ||odvidhide.com/assets/jquery/css.js$script
+||js.wpadmngr.com/static/adManager.js$script
 ||ssl.p.jwpcdn.com/player/v/8.36.4/vast.js$script
