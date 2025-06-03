@@ -1,5 +1,5 @@
 ! Title: NoBlockedYou
-! Last modified: 28 Mei 2025
+! Last modified: 04 Jun 2025
 ! Homepage: https://github.com/2RisMine/NoBlockedYou
 
 !anoboy
@@ -13,10 +13,10 @@ anoboy.*##div:nth-of-type(16)
 anoboy.*###navigasi > a:nth-child(2)
 
 !cosmic
-cosmic345.*##.kln
-cosmic345.*###floatcenter
-cosmic345.*###close-teaser
-cosmic345.*##.code-block-1.code-block
+kmvs03.*##.kln
+kmvs03.*###floatcenter
+kmvs03.*###close-teaser
+kmvs03.*##.code-block-1.code-block
 
 !colamanga
 colamanga.*##iframe
