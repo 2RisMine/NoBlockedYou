@@ -1,5 +1,5 @@
 ! Title: NoBlockedYou
-! Last modified: 04 Jun 2025
+! Last modified: 10 Jun 2025
 ! Homepage: https://github.com/2RisMine/NoBlockedYou
 
 !anoboy
@@ -19,10 +19,9 @@ kmvs03.*###close-teaser
 kmvs03.*##.code-block-1.code-block
 
 !colamanga
-colamanga.*##iframe
-colamanga.*##.PUBFUTURE
-colamanga.*##.bg-ssp-10719
-colamanga.*##.mn-related-container
+colamanga.*##.layui-layer-content
+colamanga.*##.layui-layer-shade
+colamanga.*#$#html { overflow: auto !important; }
 
 !komikCast
 komikcast02.*##.kln
