@@ -1,5 +1,5 @@
 ! Title: NoBlockedYou
-! Last modified: 10 Jun 2025
+! Last modified: 17 Jun 2025
 ! Homepage: https://github.com/2RisMine/NoBlockedYou
 
 !anoboy
@@ -13,10 +13,10 @@ anoboy.*##div:nth-of-type(16)
 anoboy.*###navigasi > a:nth-child(2)
 
 !cosmic
-kmvs03.*##.kln
-kmvs03.*###floatcenter
-kmvs03.*###close-teaser
-kmvs03.*##.code-block-1.code-block
+cosmicscans.*##.kln
+cosmicscans.*###floatcenter
+cosmicscans.*###close-teaser
+cosmicscans.*##.code-block-1.code-block
 
 !colamanga
 colamanga.*##.layui-layer-content
@@ -99,6 +99,7 @@ yourupload.*##+js(abort-on-property-write, _pop)
 ||cdn.ouo.io^
 ||theetheks.com^
 ||bohawnahum.top^
+||cdn.xihubo.click^
 ||oh.oleggurge.com^
 ||chyazicchafe.top^
 ||private-hide.com^
@@ -113,6 +114,7 @@ yourupload.*##+js(abort-on-property-write, _pop)
 ||platform.pubadx.one^
 ||cdn.pubfuture-ad.com^
 ||bj.eidersrettory.com^
+||kk.baumiereosinic.com^
 ||urgentlyrightypast.com^
 ||abor.aklmjylamvkbm.top^
 ||appointeeivyspongy.com^
