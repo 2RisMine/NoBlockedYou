@@ -24,10 +24,10 @@ colamanga.*##.layui-layer-shade
 colamanga.*#$#html { overflow: auto !important; }
 
 !komikCast
-komikcast02.*##.kln
-komikcast02.*###teaser3
-komikcast02.*###teaser4
-komikcast02.*##+js(aopr, open)
+komikcast.*##.kln
+komikcast.*###teaser3
+komikcast.*###teaser4
+komikcast.*##+js(aopr, open)
 
 !kiryuu
 kiryuu01.*##.kln
