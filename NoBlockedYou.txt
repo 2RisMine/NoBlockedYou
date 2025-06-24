@@ -1,5 +1,5 @@
 ! Title: NoBlockedYou
-! Last modified: 22 Jun 2025
+! Last modified: 24 Jun 2025
 ! Homepage: https://github.com/2RisMine/NoBlockedYou
 
 !anoboy
@@ -46,6 +46,13 @@ komikstation.*##+js(nowoif)
 !komiku
 komiku.*##.kln
 komiku.*###close-teaser
+
+!kuronime
+kuronime.*##.kln
+kuronime.*##.klmr
+kuronime.*###teaser3
+kuronime.*###overplay
+kuronime.*###popup_box_donasi
 
 !nontonanimeid
 nontonanimeid.*##.banner_player
