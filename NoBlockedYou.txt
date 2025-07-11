@@ -22,7 +22,7 @@ cosmicscans.*##.code-block-1.code-block
 colamanga.*##.layui-layer-content
 colamanga.*##.layui-layer-shade
 colamanga.*#$#html { overflow: auto !important; }
-colamanga.com##+js(nostif, loadErrorTip)
+colamanga.*##+js(nostif, loadErrorTip)
 
 !komikCast
 komikcast.*##.kln
