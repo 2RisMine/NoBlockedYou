@@ -105,7 +105,6 @@ yourupload.*##+js(abort-on-property-write, _pop)
 .gif$image,domain=oploverz.*|id.shinigami.*|anoboy.*|otakudesu.*
 
 !Script
-||i0.wp.com^
 ||cdn.ouo.io^
 ||s10.histats.com^
 ||js.juicyads.com^
