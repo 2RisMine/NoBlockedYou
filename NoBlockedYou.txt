@@ -110,6 +110,8 @@ yourupload.*##+js(abort-on-property-write, _pop)
 ||adv.clickadu.net^
 ||d-code.liadm.com^
 ||tiredelection.com^
+||gr.mavencosshen.com^
+||link.shirolink.my.id^
 ||valleyarmiessunflower.com^
 ||23a1aece7b.47c50e31a9.com^
 ||theetheks.com^
