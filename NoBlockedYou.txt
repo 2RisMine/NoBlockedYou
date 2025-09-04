@@ -106,6 +106,12 @@ yourupload.*##+js(abort-on-property-write, _pop)
 
 !Script
 ||cdn.ouo.io^
+||js.wpadmngr.com^
+||adv.clickadu.net^
+||tiredelection.com^
+||gr.mavencosshen.com^
+||link.shirolink.my.id^
+||valleyarmiessunflower.com^
 ||theetheks.com^
 ||bohawnahum.top^
 ||cdn.xihubo.click^
