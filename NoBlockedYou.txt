@@ -106,10 +106,12 @@ yourupload.*##+js(abort-on-property-write, _pop)
 
 !Script
 ||cdn.ouo.io^
+||js.juicyads.com^
 ||js.wpadmngr.com^
 ||adv.clickadu.net^
 ||d-code.liadm.com^
 ||tiredelection.com^
+||poweredby.jads.co^
 ||gr.mavencosshen.com^
 ||link.shirolink.my.id^
 ||valleyarmiessunflower.com^
