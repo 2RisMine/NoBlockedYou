@@ -106,6 +106,9 @@ yourupload.*##+js(abort-on-property-write, _pop)
 
 !Script
 ||cdn.ouo.io^
+||cdn.jsdelivr.net^
+||rl.aikanefogon.com^
+||0c064b60da.479d24d9fd.com^
 ||s10.histats.com^
 ||js.juicyads.com^
 ||js.wpadmngr.com^
