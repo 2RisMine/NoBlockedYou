@@ -140,6 +140,7 @@ yourupload.*##+js(abort-on-property-write, _pop)
 ||platform.pubadx.one^
 ||cdn.pubfuture-ad.com^
 ||bj.eidersrettory.com^
+||lg.sizzledoutfort.com^
 ||kk.baumiereosinic.com^
 ||urgentlyrightypast.com^
 ||abor.aklmjylamvkbm.top^
