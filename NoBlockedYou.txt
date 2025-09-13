@@ -106,7 +106,6 @@ yourupload.*##+js(abort-on-property-write, _pop)
 
 !Script
 ||cdn.ouo.io^
-||0c064b60da.479d24d9fd.com^
 ||rl.aikanefogon.com^
 ||js.wpadmngr.com^
 ||s10.histats.com^
@@ -119,8 +118,6 @@ yourupload.*##+js(abort-on-property-write, _pop)
 ||gr.mavencosshen.com^
 ||link.shirolink.my.id^
 ||wq.tyliontentful.com^
-||valleyarmiessunflower.com^
-||23a1aece7b.47c50e31a9.com^
 ||theetheks.com^
 ||bohawnahum.top^
 ||cdn.xihubo.click^
@@ -146,6 +143,10 @@ yourupload.*##+js(abort-on-property-write, _pop)
 ||abor.aklmjylamvkbm.top^
 ||appointeeivyspongy.com^
 ||excavatenearbywand.com^
+||valleyarmiessunflower.com^
+||23a1aece7b.47c50e31a9.com^
+||0c064b60da.479d24d9fd.com^
+||658c031b51.27352a740a.com^
 ||da00ebe35b.88ddebd3d3.com^
 ||e2a4ad946f.e7903973a7.com^
 ||petargumentswhirlpool.com^
