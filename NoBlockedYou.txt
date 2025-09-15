@@ -1,5 +1,5 @@
 ! Title: NoBlockedYou
-! Last modified: 05 Sep 2025
+! Last modified: 15 Sep 2025
 ! Homepage: https://github.com/2RisMine/NoBlockedYou
 
 !anoboy
@@ -62,10 +62,10 @@ nontonanimeid.*##div[class^="adspost"]
 nontonanimeid.*##.notice-iklan.redtext.tagpst1
 
 !idlix
-idlixvip.*##.row
-idlixvip.*##.asgdc
-idlixvip.*##.kalongkalongrow
-idlixvip.*##.module_single_ads
+idlixku.*##.row
+idlixku.*##.asgdc
+idlixku.*##.kalongkalongrow
+idlixku.*##.module_single_ads
 
 !shinigami
 shinigami.*##.gap-4.md\:gap-4.md\:grid-cols-2.grid-cols-1.grid
@@ -74,6 +74,8 @@ shinigami.*##+js(set-session-storage-item, showAds, -9999)
 shinigami.*##+js(set-session-storage-item, showAdsGamePopup, true)
 
 !samehadaku
+samehadaku.*###server > p
+samehadaku.*##.player-iklan
 samehadaku.*##.post-body > [href]
 
 !otakudesu
@@ -146,6 +148,7 @@ yourupload.*##+js(abort-on-property-write, _pop)
 ||appointeeivyspongy.com^
 ||excavatenearbywand.com^
 ||valleyarmiessunflower.com^
+||a93df892bf.759d3cc22a.com^
 ||23a1aece7b.47c50e31a9.com^
 ||0c064b60da.479d24d9fd.com^
 ||658c031b51.27352a740a.com^
