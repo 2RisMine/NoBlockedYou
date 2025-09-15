@@ -37,8 +37,8 @@ kiryuu02.*##div.section.widget_text:nth-of-type(1)
 kiryuu02.*##+js(nowoif)
 
 !komikindo
-komikindo2.*##.gulai_asam_manis
-komikindo2.*##^script[data-cfasync][data-rocket-src]:not([data-rocket-src*="komikindo2.*"])
+komikindo.*##.gulai_asam_manis
+komikindo.*##^script[data-cfasync][data-rocket-src]:not([data-rocket-src*="komikindo2.*"])
 
 !komikstation
 komikstation.*##.kln
