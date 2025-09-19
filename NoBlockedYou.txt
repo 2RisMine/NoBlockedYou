@@ -167,6 +167,7 @@ yourupload.*##+js(abort-on-property-write, _pop)
 ||cdn.runative-syndicate.com^
 ||divisiondrearilyunfiled.com^
 ||www.highperformanceformat.com^
+||pl27545152.revenuecpmgate.com^
 ||pl22277165.profitablecpmrate.com^
 ||pl26571917.profitableratecpm.com^
 ||cdn.popcash.net/show.js$script
