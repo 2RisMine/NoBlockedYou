@@ -12,6 +12,10 @@ anoboy.*###coloma
 anoboy.*##div:nth-of-type(16)
 anoboy.*###navigasi > a:nth-child(2)
 
+!anichin
+anichin.*##.kln
+anichin.*##div.kln
+
 !cosmic
 cosmicscans.*##.kln
 cosmicscans.*###floatcenter
@@ -114,6 +118,7 @@ yourupload.*##+js(abort-on-property-write, _pop)
 ||s10.histats.com^
 ||js.juicyads.com^
 ||js.wpadmngr.com^
+||vm.ydstinkle.com^
 ||adv.clickadu.net^
 ||d-code.liadm.com^
 ||cdn.xihubo.click^
