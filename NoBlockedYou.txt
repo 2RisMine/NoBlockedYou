@@ -155,6 +155,7 @@ yourupload.*##+js(abort-on-property-write, _pop)
 ||appointeeivyspongy.com^
 ||excavatenearbywand.com^
 ||valleyarmiessunflower.com^
+||8340929ae9.28f810077f.com^
 ||969ecde9fd.1aacb6bb9f.com^
 ||a93df892bf.759d3cc22a.com^
 ||23a1aece7b.47c50e31a9.com^
