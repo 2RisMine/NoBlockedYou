@@ -126,6 +126,7 @@ yourupload.*##+js(abort-on-property-write, _pop)
 ||oh.oleggurge.com^
 ||chyazicchafe.top^
 ||private-hide.com^
+||rh.unactkiosk.com^
 ||anchored-sell.com^
 ||faqirsgoliard.top^
 ||tenserrelents.com^
