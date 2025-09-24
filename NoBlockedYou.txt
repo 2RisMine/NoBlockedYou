@@ -108,7 +108,7 @@ tukangkomik.*##+js(nowoif)
 yourupload.*##+js(abort-on-property-write, _pop)
 
 !image Blocked
-.gif$image,domain=oploverz.*|id.shinigami.*|anoboy.*|otakudesu.*
+.gif$image,domain=oploverz.*|shinigami.*|anoboy.*|otakudesu.*|anichin.*|samehadaku.*
 
 !Script
 ||cdn.ouo.io^
