@@ -140,6 +140,7 @@ yourupload.*##+js(abort-on-property-write, _pop)
 ||gc.squidsveena.com^
 ||grotzenzelotic.com^
 ||fb.knolledhard.com^
+||np.mournersamoa.com^
 ||ak.beltsflusker.com^
 ||gr.mavencosshen.com^
 ||es.rethephrased.com^
