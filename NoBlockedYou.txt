@@ -115,6 +115,7 @@ yourupload.*##+js(abort-on-property-write, _pop)
 ||theetheks.com^
 ||wedauspicy.com^
 ||bohawnahum.top^
+||gwanmuopwaw.com^
 ||js.wpadmngr.com^
 ||s10.histats.com^
 ||js.juicyads.com^
@@ -159,6 +160,7 @@ yourupload.*##+js(abort-on-property-write, _pop)
 ||appointeeivyspongy.com^
 ||excavatenearbywand.com^
 ||valleyarmiessunflower.com^
+||1e675ce8a2.2830022a41.com^
 ||3ab5cc6b83.7926ccc537.com^
 ||8340929ae9.28f810077f.com^
 ||969ecde9fd.1aacb6bb9f.com^
