@@ -112,6 +112,7 @@ yourupload.*##+js(abort-on-property-write, _pop)
 
 !Script
 ||cdn.ouo.io^
+||qmaaptxf.com^
 ||theetheks.com^
 ||wedauspicy.com^
 ||bohawnahum.top^
@@ -140,6 +141,7 @@ yourupload.*##+js(abort-on-property-write, _pop)
 ||gc.squidsveena.com^
 ||grotzenzelotic.com^
 ||fb.knolledhard.com^
+||cdn.proportalify.my^
 ||np.mournersamoa.com^
 ||ak.beltsflusker.com^
 ||gr.mavencosshen.com^
@@ -162,6 +164,7 @@ yourupload.*##+js(abort-on-property-write, _pop)
 ||appointeeivyspongy.com^
 ||excavatenearbywand.com^
 ||valleyarmiessunflower.com^
+||8c14561703.987f9e203d.com^
 ||1e675ce8a2.2830022a41.com^
 ||3ab5cc6b83.7926ccc537.com^
 ||8340929ae9.28f810077f.com^
