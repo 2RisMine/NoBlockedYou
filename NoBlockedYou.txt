@@ -116,6 +116,7 @@ yourupload.*##+js(abort-on-property-write, _pop)
 ||theetheks.com^
 ||wedauspicy.com^
 ||bohawnahum.top^
+||cdn.tapioni.com^
 ||gwanmuopwaw.com^
 ||js.wpadmngr.com^
 ||s10.histats.com^
@@ -141,6 +142,7 @@ yourupload.*##+js(abort-on-property-write, _pop)
 ||gc.squidsveena.com^
 ||grotzenzelotic.com^
 ||fb.knolledhard.com^
+||cdn.tsyndicate.com^
 ||cdn.proportalify.my^
 ||np.mournersamoa.com^
 ||ak.beltsflusker.com^
