@@ -167,6 +167,7 @@ yourupload.*##+js(abort-on-property-write, _pop)
 ||excavatenearbywand.com^
 ||altruistic-departure.com^
 ||valleyarmiessunflower.com^
+||2264ca26d4.e088b80df3.com^
 ||8c14561703.987f9e203d.com^
 ||1e675ce8a2.2830022a41.com^
 ||3ab5cc6b83.7926ccc537.com^
