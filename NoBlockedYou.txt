@@ -69,6 +69,7 @@ nontonanimeid.*##.notice-iklan.redtext.tagpst1
 !idlix
 idlixku.*##.row
 idlixku.*##.asgdc
+idlixku.*##.batmangcolumn
 idlixku.*##.kalongkalongrow
 idlixku.*##.module_single_ads
 
