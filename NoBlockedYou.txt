@@ -1,5 +1,5 @@
 ! Title: NoBlockedYou
-! Last modified: 27 Sep 2025
+! Last modified: 28 Sep 2025
 ! Homepage: https://github.com/2RisMine/NoBlockedYou
 
 !anoboy
@@ -15,6 +15,7 @@ anoboy.*###navigasi > a:nth-child(2)
 !anichin
 anichin.*##.kln
 anichin.*##div.kln
+anichin.*###overplay
 
 !cosmic
 cosmicscans.*##.kln
