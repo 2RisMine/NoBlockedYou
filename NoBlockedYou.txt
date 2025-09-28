@@ -105,6 +105,9 @@ tukangkomik.*##.kln
 tukangkomik.*###close-teaser
 tukangkomik.*##+js(nowoif)
 
+!media
+||1a-1791.com^$media
+
 !PopUp
 yourupload.*##+js(abort-on-property-write, _pop)
 
