@@ -33,7 +33,7 @@ colamanga.*##+js(nostif, loadErrorTip)
 komikcast.*##.kln
 komikcast.*###teaser3
 komikcast.*###teaser4
-komikcast.*##+js(aopr, open)
+komikcast.*#@#+js(prevent-window-open)
 
 !kiryuu
 kiryuu02.*##.kln
