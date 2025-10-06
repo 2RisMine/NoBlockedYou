@@ -34,6 +34,7 @@ komikcast.*##.kln
 komikcast.*###teaser3
 komikcast.*###teaser4
 komikcast.*#@#+js(prevent-window-open)
+komikcast.*#@#+js(abort-on-property-read, open)
 
 !kiryuu
 kiryuu02.*##.kln
