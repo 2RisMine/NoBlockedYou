@@ -30,11 +30,11 @@ colamanga.*#$#html { overflow: auto !important; }
 colamanga.*##+js(nostif, loadErrorTip)
 
 !komikCast
-komikcast.*##.kln
-komikcast.*###teaser3
-komikcast.*###teaser4
-komikcast.*#@#+js(prevent-window-open)
-komikcast.*#@#+js(abort-on-property-read, open)
+komikcast03.*##.kln
+komikcast03.*###teaser3
+komikcast03.*###teaser4
+komikcast03.*#@#+js(prevent-window-open)
+komikcast03.*#@#+js(abort-on-property-read, open)
 
 !kiryuu
 kiryuu02.*##.kln
