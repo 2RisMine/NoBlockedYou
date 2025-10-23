@@ -177,6 +177,7 @@ yourupload.*##+js(abort-on-property-write, _pop)
 ||6533ae7a1a.7ba3fa4259.com^
 ||2264ca26d4.e088b80df3.com^
 ||8c14561703.987f9e203d.com^
+||1c37f52d4c.0880559526.com^
 ||1e675ce8a2.2830022a41.com^
 ||3ab5cc6b83.7926ccc537.com^
 ||8340929ae9.28f810077f.com^
