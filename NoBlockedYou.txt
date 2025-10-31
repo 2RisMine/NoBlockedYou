@@ -127,7 +127,6 @@ yourupload.*##+js(abort-on-property-write, _pop)
 ||js.wpadmngr.com^
 ||s10.histats.com^
 ||js.juicyads.com^
-||js.wpadmngr.com^
 ||vm.ydstinkle.com^
 ||adv.clickadu.net^
 ||d-code.liadm.com^
@@ -174,6 +173,7 @@ yourupload.*##+js(abort-on-property-write, _pop)
 ||driverhugoverblown.com^
 ||altruistic-departure.com^
 ||valleyarmiessunflower.com^
+||6cb28ed99a.14f768ef60.com^
 ||6533ae7a1a.7ba3fa4259.com^
 ||2264ca26d4.e088b80df3.com^
 ||8c14561703.987f9e203d.com^
@@ -201,5 +201,4 @@ yourupload.*##+js(abort-on-property-write, _pop)
 ||stats.esecured.net/matomo.js$script
 ||odvidhide.com/player/jw8/vast.js$script
 ||odvidhide.com/assets/jquery/css.js$script
-||js.wpadmngr.com/static/adManager.js$script
 ||ssl.p.jwpcdn.com/player/v/8.36.4/vast.js$script
