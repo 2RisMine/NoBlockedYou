@@ -196,6 +196,7 @@ yourupload.*##+js(abort-on-property-write, _pop)
 ||divisiondrearilyunfiled.com^
 ||www.highperformanceformat.com^
 ||pl27545152.revenuecpmgate.com^
+||pagead2.googlesyndication.com^
 ||pl22277165.profitablecpmrate.com^
 ||pl26571917.profitableratecpm.com^
 ||nyu.pugbiw76j1vmhc724h84u11ep5k.cfd^
