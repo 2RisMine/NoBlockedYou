@@ -1,5 +1,5 @@
 ! Title: NoBlockedYou
-! Last modified: 28 Sep 2025
+! Last modified: 02 Nov 2025
 ! Homepage: https://github.com/2RisMine/NoBlockedYou
 
 !anoboy
@@ -176,6 +176,7 @@ yourupload.*##+js(abort-on-property-write, _pop)
 ||6cb28ed99a.14f768ef60.com^
 ||6533ae7a1a.7ba3fa4259.com^
 ||2264ca26d4.e088b80df3.com^
+||703b6bbe63.0f857e584a.com^
 ||8c14561703.987f9e203d.com^
 ||1c37f52d4c.0880559526.com^
 ||1e675ce8a2.2830022a41.com^
@@ -191,11 +192,13 @@ yourupload.*##+js(abort-on-property-write, _pop)
 ||petargumentswhirlpool.com^
 ||5eff937764.e487a41ae0.com^
 ||cdn.runative-syndicate.com^
+||bxkn8.2mpekrveulopj9y.rest^
 ||divisiondrearilyunfiled.com^
 ||www.highperformanceformat.com^
 ||pl27545152.revenuecpmgate.com^
 ||pl22277165.profitablecpmrate.com^
 ||pl26571917.profitableratecpm.com^
+||nyu.pugbiw76j1vmhc724h84u11ep5k.cfd^
 ||cdn.popcash.net/show.js$script
 ||cdn2.popcash.net/show.js$script
 ||stats.esecured.net/matomo.js$script
