@@ -120,7 +120,6 @@ yourupload.*##+js(abort-on-property-write, _pop)
 ||theetheks.com^
 ||wedauspicy.com^
 ||bohawnahum.top^
-||se.kodiakhemapod.com^
 ||cdn.tapioni.com^
 ||gwanmuopwaw.com^
 ||js.wpadmngr.com^
