@@ -139,6 +139,7 @@ yourupload.*##+js(abort-on-property-write, _pop)
 ||tenserrelents.com^
 ||tiredelection.com^
 ||poweredby.jads.co^
+||se.kodiakhemapod.com^
 ||ps.maraywreath.com^
 ||rl.laftlipping.com^
 ||rl.aikanefogon.com^
