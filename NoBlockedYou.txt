@@ -113,7 +113,6 @@ yourupload.*##+js(abort-on-property-write, _pop)
 
 !image Blocked
 .gif$image,domain=oploverz.*|shinigami.*|anoboy.*|otakudesu.*|anichin.*|samehadaku.*|vidoy.*
-||ey.chattahnigella.com^
 !Script
 ||cdn.ouo.io^
 ||qmaaptxf.com^
@@ -166,6 +165,7 @@ yourupload.*##+js(abort-on-property-write, _pop)
 ||lg.sizzledoutfort.com^
 ||kk.baumiereosinic.com^
 ||ey.chattahnigella.com^
+||36946.phidonatome.com^
 ||urgentlyrightypast.com^
 ||abor.aklmjylamvkbm.top^
 ||appointeeivyspongy.com^
