@@ -113,7 +113,7 @@ yourupload.*##+js(abort-on-property-write, _pop)
 
 !image Blocked
 .gif$image,domain=oploverz.*|shinigami.*|anoboy.*|otakudesu.*|anichin.*|samehadaku.*|vidoy.*
-
+||ey.chattahnigella.com^
 !Script
 ||cdn.ouo.io^
 ||qmaaptxf.com^
@@ -138,7 +138,6 @@ yourupload.*##+js(abort-on-property-write, _pop)
 ||tenserrelents.com^
 ||tiredelection.com^
 ||poweredby.jads.co^
-||se.kodiakhemapod.com^
 ||ps.maraywreath.com^
 ||rl.laftlipping.com^
 ||rl.aikanefogon.com^
@@ -156,6 +155,7 @@ yourupload.*##+js(abort-on-property-write, _pop)
 ||oh.natterresail.com^
 ||is.cesarebientt.com^
 ||platform.pubadx.one^
+||se.kodiakhemapod.com^
 ||ur.foretopheaved.com^
 ||fx.gearmanswings.com^
 ||link.shirolink.my.id^
@@ -165,6 +165,7 @@ yourupload.*##+js(abort-on-property-write, _pop)
 ||nf.diamberproetid.com^
 ||lg.sizzledoutfort.com^
 ||kk.baumiereosinic.com^
+||ey.chattahnigella.com^
 ||urgentlyrightypast.com^
 ||abor.aklmjylamvkbm.top^
 ||appointeeivyspongy.com^
