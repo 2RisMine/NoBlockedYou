@@ -156,6 +156,7 @@ yourupload.*##+js(abort-on-property-write, _pop)
 ||oh.natterresail.com^
 ||is.cesarebientt.com^
 ||platform.pubadx.one^
+||kv.cancannicolas.com^
 ||se.kodiakhemapod.com^
 ||ur.foretopheaved.com^
 ||fx.gearmanswings.com^
@@ -163,6 +164,7 @@ yourupload.*##+js(abort-on-property-write, _pop)
 ||wq.tyliontentful.com^
 ||cdn.pubfuture-ad.com^
 ||bj.eidersrettory.com^
+||cdn28786515.ahacdn.me^
 ||nf.diamberproetid.com^
 ||lg.sizzledoutfort.com^
 ||kk.baumiereosinic.com^
