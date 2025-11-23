@@ -112,7 +112,7 @@ tukangkomik.*##+js(nowoif)
 yourupload.*##+js(abort-on-property-write, _pop)
 
 !image Blocked
-.gif$image,domain=oploverz.*|shinigami.*|anoboy.*|otakudesu.*|anichin.*|samehadaku.*|vidoy.*
+.gif$image,domain=oploverz.*|shinigami.*|anoboy.*|otakudesu.*|anichin.*|samehadaku.*
 
 !Script
 ||122da.com^
@@ -140,6 +140,7 @@ yourupload.*##+js(abort-on-property-write, _pop)
 ||tenserrelents.com^
 ||tiredelection.com^
 ||poweredby.jads.co^
+||lelwelfermail.help^
 ||ps.maraywreath.com^
 ||rl.laftlipping.com^
 ||rl.aikanefogon.com^
@@ -166,6 +167,7 @@ yourupload.*##+js(abort-on-property-write, _pop)
 ||wq.tyliontentful.com^
 ||cdn.pubfuture-ad.com^
 ||bj.eidersrettory.com^
+||www.zmewqybrjlblp.com^
 ||yf.diasyrmunionic.com^
 ||36946.phidonatome.com^
 ||cdn28786515.ahacdn.me^
@@ -174,6 +176,7 @@ yourupload.*##+js(abort-on-property-write, _pop)
 ||kk.baumiereosinic.com^
 ||ey.chattahnigella.com^
 ||36946.phidonatome.com^
+||www.eewcrzwsmzqtes.com^
 ||urgentlyrightypast.com^
 ||abor.aklmjylamvkbm.top^
 ||appointeeivyspongy.com^
