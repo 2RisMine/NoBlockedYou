@@ -115,9 +115,11 @@ yourupload.*##+js(abort-on-property-write, _pop)
 .gif$image,domain=oploverz.*|shinigami.*|anoboy.*|otakudesu.*|anichin.*|samehadaku.*|vidoy.*
 
 !Script
+||122da.com^
 ||cdn.ouo.io^
 ||qmaaptxf.com^
 ||theetheks.com^
+||a.labadena.com^
 ||wedauspicy.com^
 ||bohawnahum.top^
 ||cdn.tapioni.com^
