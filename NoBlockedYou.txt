@@ -159,6 +159,7 @@ yourupload.*##+js(abort-on-property-write, _pop)
 ||oh.natterresail.com^
 ||is.cesarebientt.com^
 ||platform.pubadx.one^
+||iv.ramoseemetins.com^
 ||kv.cancannicolas.com^
 ||se.kodiakhemapod.com^
 ||ur.foretopheaved.com^
