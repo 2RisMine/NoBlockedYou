@@ -1,5 +1,5 @@
 ! Title: NoBlockedYou
-! Last modified: 24 Nov 2025
+! Last modified: 20 Dec 2025
 ! Homepage: https://github.com/2RisMine/NoBlockedYou
 
 !anoboy
@@ -141,6 +141,7 @@ yourupload.*##+js(abort-on-property-write, _pop)
 ||tiredelection.com^
 ||poweredby.jads.co^
 ||lelwelfermail.help^
+||qb.heartyboney.com^
 ||ps.maraywreath.com^
 ||rl.laftlipping.com^
 ||rl.aikanefogon.com^
@@ -178,7 +179,6 @@ yourupload.*##+js(abort-on-property-write, _pop)
 ||lg.sizzledoutfort.com^
 ||kk.baumiereosinic.com^
 ||ey.chattahnigella.com^
-||36946.phidonatome.com^
 ||www.eewcrzwsmzqtes.com^
 ||urgentlyrightypast.com^
 ||abor.aklmjylamvkbm.top^
