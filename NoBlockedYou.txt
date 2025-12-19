@@ -148,6 +148,7 @@ yourupload.*##+js(abort-on-property-write, _pop)
 ||sk.cohibitegos.com^
 ||gc.squidsveena.com^
 ||grotzenzelotic.com^
+||rapidfoxengine.com^
 ||fb.knolledhard.com^
 ||cdn.tsyndicate.com^
 ||xn.voicesvalent.com^
