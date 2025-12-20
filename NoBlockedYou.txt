@@ -142,6 +142,7 @@ yourupload.*##+js(abort-on-property-write, _pop)
 ||tiredelection.com^
 ||poweredby.jads.co^
 ||lelwelfermail.help^
+||tg.ribesthenia.com^
 ||qb.heartyboney.com^
 ||ps.maraywreath.com^
 ||rl.laftlipping.com^
