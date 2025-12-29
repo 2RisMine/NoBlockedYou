@@ -1,5 +1,5 @@
 ! Title: NoBlockedYou
-! Last modified: 20 Dec 2025
+! Last modified: 29 Dec 2025
 ! Homepage: https://github.com/2RisMine/NoBlockedYou
 
 !anoboy
@@ -113,7 +113,7 @@ yourupload.*##+js(abort-on-property-write, _pop)
 
 !image Blocked
 .gif$image,domain=oploverz.*|shinigami.*|anoboy.*|otakudesu.*|anichin.*|samehadaku.*
-
+||fojsxocqfwqtt.com^
 !Script
 ||bvtpk.com^
 ||122da.com^
@@ -123,6 +123,7 @@ yourupload.*##+js(abort-on-property-write, _pop)
 ||a.labadena.com^
 ||wedauspicy.com^
 ||bohawnahum.top^
+||gizpiwtamsi.com^
 ||cdn.tapioni.com^
 ||gwanmuopwaw.com^
 ||js.wpadmngr.com^
@@ -135,6 +136,7 @@ yourupload.*##+js(abort-on-property-write, _pop)
 ||oh.oleggurge.com^
 ||chyazicchafe.top^
 ||private-hide.com^
+||fojsxocqfwqtt.com^
 ||rh.unactkiosk.com^
 ||anchored-sell.com^
 ||faqirsgoliard.top^
@@ -163,6 +165,8 @@ yourupload.*##+js(abort-on-property-write, _pop)
 ||oh.natterresail.com^
 ||is.cesarebientt.com^
 ||platform.pubadx.one^
+||ca.homeredoside.shop^
+||qn.unspedtaction.com^
 ||ia.yajeninengulf.com^
 ||iv.ramoseemetins.com^
 ||kv.cancannicolas.com^
