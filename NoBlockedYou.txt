@@ -1,5 +1,5 @@
 ! Title: NoBlockedYou
-! Last modified: 29 Dec 2025
+! Last modified: 03 Jan 2026
 ! Homepage: https://github.com/2RisMine/NoBlockedYou
 
 !anoboy
@@ -35,10 +35,9 @@ komikcast03.*###teaser3
 komikcast03.*###teaser4
 
 !kiryuu
-kiryuu02.*##.kln
-kiryuu02.*###teaserbottom
-kiryuu02.*##div.section.widget_text:nth-of-type(1)
-kiryuu02.*##+js(nowoif)
+kiryuu03.*###floatPopup
+kiryuu03.*###floatFooter
+kiryuu03.*##div.mx-auto.w-full.max-w-7xl
 
 !komikindo
 komikindo.*##.gulai_asam_manis
@@ -113,7 +112,7 @@ yourupload.*##+js(abort-on-property-write, _pop)
 
 !image Blocked
 .gif$image,domain=oploverz.*|shinigami.*|anoboy.*|otakudesu.*|anichin.*|samehadaku.*
-||fojsxocqfwqtt.com^
+
 !Script
 ||bvtpk.com^
 ||122da.com^
@@ -143,6 +142,7 @@ yourupload.*##+js(abort-on-property-write, _pop)
 ||tenserrelents.com^
 ||tiredelection.com^
 ||poweredby.jads.co^
+||cq.synochaauca.com^
 ||lelwelfermail.help^
 ||tg.ribesthenia.com^
 ||qb.heartyboney.com^
