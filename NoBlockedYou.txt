@@ -1,5 +1,5 @@
 ! Title: NoBlockedYou
-! Last modified: 03 Jan 2026
+! Last modified: 13 Jan 2026
 ! Homepage: https://github.com/2RisMine/NoBlockedYou
 
 !anoboy
@@ -112,12 +112,13 @@ yourupload.*##+js(abort-on-property-write, _pop)
 
 !image Blocked
 .gif$image,domain=oploverz.*|shinigami.*|anoboy.*|otakudesu.*|anichin.*|samehadaku.*
-
+||dm.mythosupflow.com^
 !Script
 ||bvtpk.com^
 ||122da.com^
 ||cdn.ouo.io^
 ||qmaaptxf.com^
+||zaxpujarb.com^
 ||theetheks.com^
 ||a.labadena.com^
 ||wedauspicy.com^
@@ -155,6 +156,8 @@ yourupload.*##+js(abort-on-property-write, _pop)
 ||rapidfoxengine.com^
 ||fb.knolledhard.com^
 ||cdn.tsyndicate.com^
+||dm.mythosupflow.com^
+||zb.wontghoulie.shop^
 ||xn.voicesvalent.com^
 ||cdn.proportalify.my^
 ||np.mournersamoa.com^
@@ -179,6 +182,7 @@ yourupload.*##+js(abort-on-property-write, _pop)
 ||bj.eidersrettory.com^
 ||kv.cancannicolas.com^
 ||hg.millniagrists.com^
+||rz.pulsateethered.com^
 ||www.zmewqybrjlblp.com^
 ||yf.diasyrmunionic.com^
 ||36946.phidonatome.com^
@@ -220,6 +224,7 @@ yourupload.*##+js(abort-on-property-write, _pop)
 ||cdn.runative-syndicate.com^
 ||bxkn8.2mpekrveulopj9y.rest^
 ||divisiondrearilyunfiled.com^
+||probationthimbledespite.com^
 ||www.highperformanceformat.com^
 ||pl27545152.revenuecpmgate.com^
 ||pagead2.googlesyndication.com^
