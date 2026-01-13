@@ -117,6 +117,7 @@ yourupload.*##+js(abort-on-property-write, _pop)
 ||bvtpk.com^
 ||122da.com^
 ||cdn.ouo.io^
+||zovidree.com^
 ||qmaaptxf.com^
 ||zaxpujarb.com^
 ||theetheks.com^
