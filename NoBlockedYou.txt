@@ -112,7 +112,7 @@ yourupload.*##+js(abort-on-property-write, _pop)
 
 !image Blocked
 .gif$image,domain=oploverz.*|shinigami.*|anoboy.*|otakudesu.*|anichin.*|samehadaku.*
-||dm.mythosupflow.com^
+
 !Script
 ||bvtpk.com^
 ||122da.com^
@@ -225,6 +225,7 @@ yourupload.*##+js(abort-on-property-write, _pop)
 ||bxkn8.2mpekrveulopj9y.rest^
 ||divisiondrearilyunfiled.com^
 ||probationthimbledespite.com^
+||dcbbwymp1bhlf.cloudfront.net^
 ||www.highperformanceformat.com^
 ||pl27545152.revenuecpmgate.com^
 ||pagead2.googlesyndication.com^
