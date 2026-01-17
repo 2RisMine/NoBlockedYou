@@ -1,5 +1,5 @@
 ! Title: NoBlockedYou
-! Last modified: 15 Jan 2026
+! Last modified: 17 Jan 2026
 ! Homepage: https://github.com/2RisMine/NoBlockedYou
 
 !anoboy
@@ -104,6 +104,10 @@ tukangkomik.*##.kln
 tukangkomik.*###close-teaser
 tukangkomik.*##+js(nowoif)
 
+!ngefilm
+ngefilm.*##.idmuvi-topbanner
+ngefilm.*##.idmuvi-topbanner-aftermenu
+
 !media
 ||1a-1791.com^$media
 
@@ -115,7 +119,7 @@ yourupload.*##+js(abort-on-property-write, _pop)
 
 !xhr
 ||filedon.co^$xhr
-
+||hy.outrunmost.com^
 !All
 ||bvtpk.com^
 ||122da.com^
@@ -141,6 +145,7 @@ yourupload.*##+js(abort-on-property-write, _pop)
 ||oh.oleggurge.com^
 ||chyazicchafe.top^
 ||private-hide.com^
+||hy.outrunmost.com^
 ||fojsxocqfwqtt.com^
 ||rh.unactkiosk.com^
 ||anchored-sell.com^
@@ -234,6 +239,7 @@ yourupload.*##+js(abort-on-property-write, _pop)
 ||www.highperformanceformat.com^
 ||pl27545152.revenuecpmgate.com^
 ||pagead2.googlesyndication.com^
+||pl15053208.effectivegatecpm.com^
 ||pl22277165.profitablecpmrate.com^
 ||pl26571917.profitableratecpm.com^
 ||nyu.pugbiw76j1vmhc724h84u11ep5k.cfd^
