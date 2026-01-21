@@ -1,5 +1,5 @@
 ! Title: NoBlockedYou
-! Last modified: 21 Jan 2026
+! Last modified: 22 Jan 2026
 ! Homepage: https://github.com/2RisMine/NoBlockedYou
 
 !anoboy
@@ -33,6 +33,7 @@ colamanga.*##+js(nostif, loadErrorTip)
 komikcast03.*##.kln
 komikcast03.*###teaser3
 komikcast03.*###teaser4
+komikcast03.*##.py-3.relative
 komikcast03.*##.lg\:grid-cols-2.gap-1.grid-cols-1.grid
 komikcast03.*##.md\:grid-cols-2.gap-1.grid-cols-1.grid
 
