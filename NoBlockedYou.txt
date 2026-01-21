@@ -110,6 +110,7 @@ tukangkomik.*##+js(nowoif)
 !ngefilm
 ngefilm.*##.idmuvi-topbanner
 ngefilm.*##.idmuvi-topbanner-aftermenu
+ngefilm.*##.custom-html-widget.textwidget
 
 !media
 ||1a-1791.com^$media
