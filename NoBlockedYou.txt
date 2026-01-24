@@ -30,12 +30,12 @@ colamanga.*#$#html { overflow: auto !important; }
 colamanga.*##+js(nostif, loadErrorTip)
 
 !komikCast
-komikcast03.*##.kln
-komikcast03.*###teaser3
-komikcast03.*###teaser4
-komikcast03.*##.py-3.relative
-komikcast03.*##.lg\:grid-cols-2.gap-1.grid-cols-1.grid
-komikcast03.*##.md\:grid-cols-2.gap-1.grid-cols-1.grid
+komikcast05.*##.kln
+komikcast05.*###teaser3
+komikcast05.*###teaser4
+komikcast.*##.py-3.relative
+komikcast.*##.lg\:grid-cols-2.gap-1.grid-cols-1.grid
+komikcast.*##.md\:grid-cols-2.gap-1.grid-cols-1.grid
 
 !kiryuu
 kiryuu03.*###floatPopup
