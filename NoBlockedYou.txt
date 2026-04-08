@@ -113,6 +113,8 @@ ngefilm.*##.custom-html-widget.textwidget
 ||1a-1791.com^$media
 
 !PopUp
+||azeimg.com^$popup
+||am.goisbasting.com^$popup
 yourupload.*##+js(abort-on-property-write, _pop)
 
 !image Blocked
@@ -122,6 +124,7 @@ yourupload.*##+js(abort-on-property-write, _pop)
 ||filedon.co^$xhr
 
 !All
+||fmt69.com^
 ||bvtpk.com^
 ||122da.com^
 ||cdn.ouo.io^
@@ -181,6 +184,7 @@ yourupload.*##+js(abort-on-property-write, _pop)
 ||oh.natterresail.com^
 ||is.cesarebientt.com^
 ||platform.pubadx.one^
+||bo.comalesmirled.com^
 ||tu.pinderecphory.com^
 ||ca.homeredoside.shop^
 ||qn.unspedtaction.com^
