@@ -202,7 +202,6 @@ yourupload.*##+js(abort-on-property-write, _pop)
 ||se.kodiakhemapod.com^
 ||ur.foretopheaved.com^
 ||fx.gearmanswings.com^
-||link.shirolink.my.id^
 ||wq.tyliontentful.com^
 ||cdn.pubfuture-ad.com^
 ||bj.eidersrettory.com^
