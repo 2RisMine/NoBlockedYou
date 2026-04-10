@@ -1,5 +1,5 @@
 ! Title: NoBlockedYou
-! Last modified: 07 Mar 2026
+! Last modified: 11 Apr 2026
 ! Homepage: https://github.com/2RisMine/NoBlockedYou
 
 !anoboy
@@ -131,7 +131,10 @@ yourupload.*##+js(abort-on-property-write, _pop)
 ||zovidree.com^
 ||qmaaptxf.com^
 ||zaxpujarb.com^
+||lryabwjzio.in^
 ||theetheks.com^
+||cdn.spnut.com^
+||cdn.nuqwe.com^
 ||ofleafeona.com^
 ||a.labadena.com^
 ||wedauspicy.com^
@@ -142,6 +145,7 @@ yourupload.*##+js(abort-on-property-write, _pop)
 ||js.wpadmngr.com^
 ||s10.histats.com^
 ||js.juicyads.com^
+||figglefodge.com^
 ||vm.ydstinkle.com^
 ||adv.clickadu.net^
 ||d-code.liadm.com^
@@ -159,6 +163,7 @@ yourupload.*##+js(abort-on-property-write, _pop)
 ||tiredelection.com^
 ||poweredby.jads.co^
 ||cq.synochaauca.com^
+||hr.legistfetus.com^
 ||lelwelfermail.help^
 ||tg.ribesthenia.com^
 ||qb.heartyboney.com^
@@ -171,6 +176,7 @@ yourupload.*##+js(abort-on-property-write, _pop)
 ||rapidfoxengine.com^
 ||fb.knolledhard.com^
 ||cdn.tsyndicate.com^
+||hj.sullowspatio.com^
 ||ps.larinpayment.com^
 ||dm.mythosupflow.com^
 ||zb.wontghoulie.shop^
@@ -184,6 +190,8 @@ yourupload.*##+js(abort-on-property-write, _pop)
 ||oh.natterresail.com^
 ||is.cesarebientt.com^
 ||platform.pubadx.one^
+||yw.sabbathendow.com^
+||ph.mislucktinean.com^
 ||bo.comalesmirled.com^
 ||tu.pinderecphory.com^
 ||ca.homeredoside.shop^
@@ -201,6 +209,7 @@ yourupload.*##+js(abort-on-property-write, _pop)
 ||kv.cancannicolas.com^
 ||hg.millniagrists.com^
 ||rz.pulsateethered.com^
+||scontent.xx.fbcdn.net^
 ||www.zmewqybrjlblp.com^
 ||yf.diasyrmunionic.com^
 ||36946.phidonatome.com^
@@ -218,6 +227,7 @@ yourupload.*##+js(abort-on-property-write, _pop)
 ||driverhugoverblown.com^
 ||frozenpayerpregnant.com^
 ||altruistic-departure.com^
+||1.hbovtg4y76tveij4z.rest^
 ||ff22416239.245a48ff80.com^
 ||valleyarmiessunflower.com^
 ||befc77e1a7.bb75d99ef0.com^
@@ -253,6 +263,7 @@ yourupload.*##+js(abort-on-property-write, _pop)
 ||pl22277165.profitablecpmrate.com^
 ||pl26571917.profitableratecpm.com^
 ||nyu.pugbiw76j1vmhc724h84u11ep5k.cfd^
+||ox4le.hc8uf94knvyq3gm9km187wuct3wx6r5w2.cfd^
 
 !script
 ||cdn.popcash.net/show.js$script
