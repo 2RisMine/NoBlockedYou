@@ -1,5 +1,5 @@
 ! Title: NoBlockedYou
-! Last modified: 11 Apr 2026
+! Last modified: 14 Apr 2026
 ! Homepage: https://github.com/2RisMine/NoBlockedYou
 
 !anoboy
@@ -128,6 +128,7 @@ yourupload.*##+js(abort-on-property-write, _pop)
 ||bvtpk.com^
 ||122da.com^
 ||cdn.ouo.io^
+||bumcipaw.in^
 ||zovidree.com^
 ||qmaaptxf.com^
 ||zaxpujarb.com^
@@ -135,6 +136,7 @@ yourupload.*##+js(abort-on-property-write, _pop)
 ||theetheks.com^
 ||cdn.spnut.com^
 ||cdn.nuqwe.com^
+||a48300d8ed.com^
 ||ofleafeona.com^
 ||a.labadena.com^
 ||wedauspicy.com^
@@ -208,6 +210,7 @@ yourupload.*##+js(abort-on-property-write, _pop)
 ||kv.cancannicolas.com^
 ||hg.millniagrists.com^
 ||rz.pulsateethered.com^
+||i.u8t658y96tq8kc.cyou^
 ||scontent.xx.fbcdn.net^
 ||www.zmewqybrjlblp.com^
 ||yf.diasyrmunionic.com^
@@ -225,6 +228,7 @@ yourupload.*##+js(abort-on-property-write, _pop)
 ||excavatenearbywand.com^
 ||driverhugoverblown.com^
 ||frozenpayerpregnant.com^
+||bartererfaxtingling.com^
 ||altruistic-departure.com^
 ||1.hbovtg4y76tveij4z.rest^
 ||ff22416239.245a48ff80.com^
@@ -261,7 +265,9 @@ yourupload.*##+js(abort-on-property-write, _pop)
 ||pl15053208.effectivegatecpm.com^
 ||pl22277165.profitablecpmrate.com^
 ||pl26571917.profitableratecpm.com^
+||u5b878bp9gg6.3tcrzmb1pvwo86m.cfd^
 ||nyu.pugbiw76j1vmhc724h84u11ep5k.cfd^
+||yq4y6p.1fmbkjktphuct31irvlh6q8y.rest^
 ||ox4le.hc8uf94knvyq3gm9km187wuct3wx6r5w2.cfd^
 
 !script
