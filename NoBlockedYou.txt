@@ -1,5 +1,5 @@
 ! Title: NoBlockedYou
-! Last modified: 17 Apr 2026
+! Last modified: 30 Apr 2026
 ! Homepage: https://github.com/2RisMine/NoBlockedYou
 
 !anoboy
@@ -65,11 +65,8 @@ nontonanimeid.*##div[class^="adspost"]
 nontonanimeid.*##.notice-iklan.redtext.tagpst1
 
 !idlix
-idlixku.*##.row
-idlixku.*##.asgdc
-idlixku.*##.batmangcolumn
-idlixku.*##.kalongkalongrow
-idlixku.*##.module_single_ads
+idlixku.*##.h-auto.w-full
+idlixku.*##.lg\:px-12.sm\:px-6.px-4.sm\:my-6.my-4
 
 !shinigami
 shinigami.*##.gap-4.md\:gap-4.md\:grid-cols-2.grid-cols-1.grid
@@ -140,6 +137,7 @@ yourupload.*##+js(abort-on-property-write, _pop)
 ||cdn.spnut.com^
 ||cdn.nuqwe.com^
 ||a48300d8ed.com^
+||73ea13c4fa.com^
 ||ofleafeona.com^
 ||a.labadena.com^
 ||wedauspicy.com^
@@ -152,6 +150,7 @@ yourupload.*##+js(abort-on-property-write, _pop)
 ||s10.histats.com^
 ||js.juicyads.com^
 ||figglefodge.com^
+||iv.payeddrub.com^
 ||vm.ydstinkle.com^
 ||adv.clickadu.net^
 ||d-code.liadm.com^
