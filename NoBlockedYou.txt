@@ -1,5 +1,5 @@
 ! Title: NoBlockedYou
-! Last modified: 30 Apr 2026
+! Last modified: 02 May 2026
 ! Homepage: https://github.com/2RisMine/NoBlockedYou
 
 !anoboy
@@ -120,6 +120,13 @@ yourupload.*##+js(abort-on-property-write, _pop)
 !xhr
 ||filedon.co^$xhr
 
+||el.glucasecrabber.com^
+||f8d24e6505.com^
+
+||hd.tiragecystis.cfd^
+||sv.chiasmiraisers.com^
+||df6pt2obl092n.cloudfront.net^
+
 !All
 ||fmt69.com^
 ||bvtpk.com^
@@ -142,6 +149,7 @@ yourupload.*##+js(abort-on-property-write, _pop)
 ||bb75d99ef0.com^
 ||984a6ddeb1.com^
 ||14f768ef60.com^
+||f8d24e6505.com^
 ||7ba3fa4259.com^
 ||e088b80df3.com^
 ||0f857e584a.com^
@@ -206,6 +214,7 @@ yourupload.*##+js(abort-on-property-write, _pop)
 ||dm.mythosupflow.com^
 ||zb.wontghoulie.shop^
 ||xn.voicesvalent.com^
+||hd.tiragecystis.cfd^
 ||cdn.proportalify.my^
 ||np.mournersamoa.com^
 ||ak.beltsflusker.com^
@@ -232,6 +241,8 @@ yourupload.*##+js(abort-on-property-write, _pop)
 ||bj.eidersrettory.com^
 ||kv.cancannicolas.com^
 ||hg.millniagrists.com^
+||el.glucasecrabber.com^
+||sv.chiasmiraisers.com^
 ||rz.pulsateethered.com^
 ||cu.styletsbarling.com^
 ||i.u8t658y96tq8kc.cyou^
@@ -263,6 +274,7 @@ yourupload.*##+js(abort-on-property-write, _pop)
 ||divisiondrearilyunfiled.com^
 ||probationthimbledespite.com^
 ||dcbbwymp1bhlf.cloudfront.net^
+||df6pt2obl092n.cloudfront.net^
 ||www.highperformanceformat.com^
 ||pl27545152.revenuecpmgate.com^
 ||pagead2.googlesyndication.com^
