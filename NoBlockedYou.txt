@@ -120,13 +120,6 @@ yourupload.*##+js(abort-on-property-write, _pop)
 !xhr
 ||filedon.co^$xhr
 
-||el.glucasecrabber.com^
-||f8d24e6505.com^
-
-||hd.tiragecystis.cfd^
-||sv.chiasmiraisers.com^
-||df6pt2obl092n.cloudfront.net^
-
 !All
 ||fmt69.com^
 ||bvtpk.com^
