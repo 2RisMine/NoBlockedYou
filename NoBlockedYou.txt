@@ -48,8 +48,7 @@ komikstation.*##.kln
 komikstation.*##+js(nowoif)
 
 !komiku
-komiku.*##.kln
-komiku.*###close-teaser
+komiku.*###popup-container
 
 !kuronime
 kuronime.*##.kln
@@ -218,6 +217,7 @@ yourupload.*##+js(abort-on-property-write, _pop)
 ||is.cesarebientt.com^
 ||platform.pubadx.one^
 ||yw.sabbathendow.com^
+||fn.unshutcaitiff.com^
 ||ph.mislucktinean.com^
 ||bo.comalesmirled.com^
 ||tu.pinderecphory.com^
