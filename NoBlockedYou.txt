@@ -1,5 +1,5 @@
 ! Title: NoBlockedYou
-! Last modified: 03 Jun 2026
+! Last modified: 05 Jun 2026
 ! Homepage: https://github.com/2RisMine/NoBlockedYou
 
 !anoboy
@@ -119,21 +119,6 @@ yourupload.*##+js(abort-on-property-write, _pop)
 !xhr
 ||filedon.co^$xhr
 
-||js.wpadmngr.com^
-||na.nawpush.com^
-||metricswpsh.com^
-||fp.metricswpsh.com^
-||js.capndr.com^
-||ssp.zog.link^
-||ntvpforever.com^
-||ntvpwpush.com^
-||storage.multstorage.com^
-||api.production.gstcpx.site^
-||s.uuidksinc.net^
-||lbs-eu1.ads.betweendigital.com^
-||sentry.infra.infrapu.sh^
-||st.korlumo.com^
-||notification.tubecup.net
 
 !All
 ||fmt69.com^
@@ -142,15 +127,20 @@ yourupload.*##+js(abort-on-property-write, _pop)
 ||5gvci.com^
 ||cdn.ouo.io^
 ||bumcipaw.in^
+||ssp.zog.link^
 ||zovidree.com^
 ||qmaaptxf.com^
+||ntvpwpush.com^
 ||zaxpujarb.com^
-||c03e5b557d.com
+||js.capndr.com^
 ||lryabwjzio.in^
 ||theetheks.com^
 ||gukahdbam.com^
 ||cdn.spnut.com^
 ||cdn.nuqwe.com^
+||st.korlumo.com^
+||c03e5b557d.com^
+||na.nawpush.com^
 ||a48300d8ed.com^
 ||73ea13c4fa.com^
 ||245a48ff80.com^
@@ -179,6 +169,8 @@ yourupload.*##+js(abort-on-property-write, _pop)
 ||wedauspicy.com^
 ||qujbaxxtakr.in^
 ||bohawnahum.top^
+||ntvpforever.com^
+||metricswpsh.com^
 ||gizpiwtamsi.com^
 ||cdn.tapioni.com^
 ||gwanmuopwaw.com^
@@ -186,6 +178,7 @@ yourupload.*##+js(abort-on-property-write, _pop)
 ||s10.histats.com^
 ||js.juicyads.com^
 ||figglefodge.com^
+||s.uuidksinc.net^
 ||iv.payeddrub.com^
 ||vm.ydstinkle.com^
 ||adv.clickadu.net^
@@ -204,6 +197,7 @@ yourupload.*##+js(abort-on-property-write, _pop)
 ||tenserrelents.com^
 ||tiredelection.com^
 ||poweredby.jads.co^
+||fp.metricswpsh.com^
 ||cq.synochaauca.com^
 ||hr.legistfetus.com^
 ||lelwelfermail.help^
@@ -218,6 +212,7 @@ yourupload.*##+js(abort-on-property-write, _pop)
 ||rapidfoxengine.com^
 ||fb.knolledhard.com^
 ||cdn.tsyndicate.com^
+||vn.fascescrewet.com^
 ||hj.sullowspatio.com^
 ||ps.larinpayment.com^
 ||dm.mythosupflow.com^
@@ -234,6 +229,7 @@ yourupload.*##+js(abort-on-property-write, _pop)
 ||is.cesarebientt.com^
 ||platform.pubadx.one^
 ||yw.sabbathendow.com^
+||ly.andriesmemoir.com^
 ||fn.unshutcaitiff.com^
 ||ph.mislucktinean.com^
 ||bo.comalesmirled.com^
@@ -274,11 +270,15 @@ yourupload.*##+js(abort-on-property-write, _pop)
 ||driverhugoverblown.com^
 ||frozenpayerpregnant.com^
 ||bartererfaxtingling.com^
+||sentry.infra.infrapu.sh^
+||storage.multstorage.com^
 ||altruistic-departure.com^
 ||1.hbovtg4y76tveij4z.rest^
+||notification.tubecup.net^
 ||valleyarmiessunflower.com^
 ||petargumentswhirlpool.com^
 ||5eff937764.e487a41ae0.com^
+||api.production.gstcpx.site^
 ||cdn.runative-syndicate.com^
 ||bxkn8.2mpekrveulopj9y.rest^
 ||divisiondrearilyunfiled.com^
@@ -288,6 +288,7 @@ yourupload.*##+js(abort-on-property-write, _pop)
 ||www.highperformanceformat.com^
 ||pl27545152.revenuecpmgate.com^
 ||pagead2.googlesyndication.com^
+||lbs-eu1.ads.betweendigital.com^
 ||pl15053208.effectivegatecpm.com^
 ||pl22277165.profitablecpmrate.com^
 ||pl26571917.profitableratecpm.com^
