@@ -301,6 +301,7 @@ yourupload.*##+js(abort-on-property-write, _pop)
 ||cdn.popcash.net/show.js$script
 ||cdn2.popcash.net/show.js$script
 ||stats.esecured.net/matomo.js$script
+||js.wpadmngr.com/static/adManager.js^
 ||odvidhide.com/player/jw8/vast.js$script
 ||odvidhide.com/assets/jquery/css.js$script
 ||ssl.p.jwpcdn.com/player/v/8.36.4/vast.js$script
