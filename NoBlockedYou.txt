@@ -1,5 +1,5 @@
 ! Title: NoBlockedYou
-! Last modified: 05 Jun 2026
+! Last modified: 14 Jun 2026
 ! Homepage: https://github.com/2RisMine/NoBlockedYou
 
 !anoboy
@@ -102,15 +102,14 @@ tukangkomik.*##+js(nowoif)
 
 !ngefilm
 ngefilm.*##.idmuvi-topbanner
+ngefilm.*##.idmuvi-topplayer
 ngefilm.*##.idmuvi-topbanner-aftermenu
-ngefilm.*##.custom-html-widget.textwidget
 
 !media
 ||1a-1791.com^$media
 
 !PopUp
-||azeimg.com^$popup
-||am.goisbasting.com^$popup
+rpmlive.online##+js(no-window-open-if)
 yourupload.*##+js(abort-on-property-write, _pop)
 
 !image Blocked
@@ -118,7 +117,6 @@ yourupload.*##+js(abort-on-property-write, _pop)
 
 !xhr
 ||filedon.co^$xhr
-
 
 !All
 ||fmt69.com^
