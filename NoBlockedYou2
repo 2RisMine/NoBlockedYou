@@ -1,0 +1,119 @@
+! Title: NoBlockedYou
+! Last modified: 7 Juli 2026
+! Homepage: https://github.com/2RisMine/NoBlockedYou
+
+!anoboy
+anoboy.*###ad_box
+anoboy.*###ad_bawah
+anoboy.*##.sidebar
+anoboy.*##div#judi
+anoboy.*##div#judi2
+anoboy.*###coloma
+anoboy.*##div:nth-of-type(16)
+anoboy.*###navigasi > a:nth-child(2)
+
+!anichin
+anichin.*##.kln
+anichin.*##div.kln
+anichin.*###overplay
+
+!cosmic
+cosmicscans.*##.kln
+cosmicscans.*###floatcenter
+cosmicscans.*###close-teaser
+cosmicscans.*##.code-block-1.code-block
+
+!colamanga
+colamanga.*##.layui-layer-content
+colamanga.*##.layui-layer-shade
+colamanga.*#$#html { overflow: auto !important; }
+colamanga.*#%#//scriptlet('prevent-setTimeout', 'loadErrorTip')
+
+!komikCast
+komikcast.*##button[aria-label="Close ads"]
+komikcast.*##a[rel*="noreferrer"][aria-label*="ad"]
+komikcast.*#%#//scriptlet('prevent-fetch', 'googlesyndication.com')
+
+!kiryuu
+kiryuu03.*###floatPopup
+kiryuu03.*###floatFooter
+kiryuu03.*##div.mx-auto.w-full.max-w-7xl
+
+!komikindo
+komikindo.*##.gulai_asam_manis
+komikindo.*##^script[data-cfasync][data-rocket-src]:not([data-rocket-src*="komikindo2.*"])
+
+!komikstation
+komikstation.*##.kln
+komikstation.*#%#//scriptlet('prevent-window-open')
+
+!komiku
+komiku.*###popup-container
+
+!kuronime
+kuronime.*##.kln
+kuronime.*##.klmr
+kuronime.*###teaser3
+kuronime.*###overplay
+kuronime.*###popup_box_donasi
+
+!nontonanimeid
+nontonanimeid.*##.banner_player
+nontonanimeid.*##.floating_footer
+nontonanimeid.*##div[class^="adspost"]
+nontonanimeid.*##.notice-iklan.redtext.tagpst1
+
+!idlix
+idlixku.*##.h-auto.w-full
+idlixku.*##.lg\:px-12.sm\:px-6.px-4.sm\:my-6.my-4
+
+!shinigami
+shinigami.*##.gap-4.md\:gap-4.md\:grid-cols-2.grid-cols-1.grid
+shinigami.*##.lg\:gap-4.gap-4.md\:grid-cols-1.grid-cols-1.grid
+shinigami.*#%#//scriptlet('trusted-set-session-storage-item', 'showAds', '-9999')
+shinigami.*#%#//scriptlet('set-session-storage-item', 'showAdsGamePopup', 'true')
+
+!samehadaku
+samehadaku.*###server > p
+samehadaku.*##.player-iklan
+samehadaku.*##.post-body > [href]
+
+!otakudesu
+otakudesu.*###overplay
+otakudesu.*##div.iklan
+otakudesu.*##.iklanpost
+otakudesu.*###iklanbawah
+otakudesu.*##.box_item_ads_popup
+otakudesu.*#%#//scriptlet('prevent-window-open')
+otakudesu.*#%#//scriptlet('abort-current-inline-script', 'document.oncontextmenu')
+
+!oploverz
+oploverz.*##.kln
+oploverz.*###overplay
+oploverz.*###close-teaser
+oploverz.*##div.section.widget_text
+oploverz.*#%#//scriptlet('abort-current-script', '$', 'popup')
+oploverz.*#%#//scriptlet('prevent-setTimeout', 'popup')
+
+!tukangKomik
+tukangkomik.*##.kln
+tukangkomik.*###close-teaser
+tukangkomik.*#%#//scriptlet('prevent-window-open')
+
+!ngefilm
+ngefilm.*##.idmuvi-topbanner
+ngefilm.*##.idmuvi-topplayer
+ngefilm.*##.idmuvi-topbanner-aftermenu
+
+!media
+||1a-1791.com^$media
+
+!PopUp
+rpmlive.online#%#//scriptlet('prevent-window-open')
+yourupload.*#%#//scriptlet('abort-on-property-write', '_pop')
+
+!image Blocked
+.gif$image,domain=oploverz.*|shinigami.*|anoboy.*|otakudesu.*|anichin.*|samehadaku.*
+
+!xhr
+||filedon.co^$xhr
