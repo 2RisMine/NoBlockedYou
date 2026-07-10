@@ -1,6 +1,7 @@
 ! Title: NoBlockedYou
-! Last modified: 7 Juli 2026
+! Last modified: 11 Juli 2026
 ! Homepage: https://github.com/2RisMine/NoBlockedYou
+! This script is specifically for AdGuard!
 
 !anoboy
 anoboy.*###ad_box
@@ -33,6 +34,8 @@ colamanga.*#%#//scriptlet('prevent-setTimeout', 'loadErrorTip')
 komikcast.*##button[aria-label="Close ads"]
 komikcast.*##a[rel*="noreferrer"][aria-label*="ad"]
 komikcast.*#%#//scriptlet('prevent-fetch', 'googlesyndication.com')
+komikcast.*#$#.chapter-scrollbar.overflow-y-auto { overflow: visible !important; height: auto !important; }
+komikcast.*#%#(function(){ function patch(el){ if(el._patched) return; el._patched=true; el.scrollTo=function(options){ if(typeof options==='object'){ window.scrollTo(options); } else { window.scrollTo(0, options); } }; el.scrollBy=function(options){ if(typeof options==='object'){ window.scrollBy(options); } else { window.scrollBy(0, options); } }; Object.defineProperty(el,'scrollTop',{ configurable:true, get:function(){ return window.scrollY; }, set:function(val){ window.scrollTo(0, val); } }); Object.defineProperty(el,'scrollHeight',{ configurable:true, get:function(){ return document.documentElement.scrollHeight; } }); Object.defineProperty(el,'clientHeight',{ configurable:true, get:function(){ return window.innerHeight; } }); window.addEventListener('scroll', function(){ el.dispatchEvent(new Event('scroll', {bubbles:true})); }, {passive:true}); } function find(){ var el=document.querySelector('.chapter-scrollbar.overflow-y-auto'); if(el) patch(el); } var observer=new MutationObserver(find); observer.observe(document.body,{childList:true,subtree:true}); find(); })();
 
 !kiryuu
 kiryuu03.*###floatPopup
@@ -70,6 +73,7 @@ idlixku.*##.lg\:px-12.sm\:px-6.px-4.sm\:my-6.my-4
 !shinigami
 shinigami.*##.gap-4.md\:gap-4.md\:grid-cols-2.grid-cols-1.grid
 shinigami.*##.lg\:gap-4.gap-4.md\:grid-cols-1.grid-cols-1.grid
+shinigami.*#$#body, html { background-color: #000000 !important; }
 shinigami.*#%#//scriptlet('trusted-set-session-storage-item', 'showAds', '-9999')
 shinigami.*#%#//scriptlet('set-session-storage-item', 'showAdsGamePopup', 'true')
 
