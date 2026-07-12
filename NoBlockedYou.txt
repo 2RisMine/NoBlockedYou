@@ -1,5 +1,5 @@
 ! Title: NoBlockedYou
-! Last modified: 14 Jun 2026
+! Last modified: 13 Juli 2026
 ! Homepage: https://github.com/2RisMine/NoBlockedYou
 
 !anoboy
@@ -70,8 +70,8 @@ idlixku.*##.lg\:px-12.sm\:px-6.px-4.sm\:my-6.my-4
 !shinigami
 shinigami.*##.gap-4.md\:gap-4.md\:grid-cols-2.grid-cols-1.grid
 shinigami.*##.lg\:gap-4.gap-4.md\:grid-cols-1.grid-cols-1.grid
-shinigami.*##+js(set-session-storage-item, showAds, -9999)
 shinigami.*##+js(set-session-storage-item, showAdsGamePopup, true)
+shinigami.*##+js(no-setTimeout-if, /adsContent|(?=.*Ye\()(?=.*t\.apply)(?=.*arguments:s)/, 300)
 
 !samehadaku
 samehadaku.*###server > p
