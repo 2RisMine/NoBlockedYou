@@ -75,7 +75,7 @@ shinigami.*##.gap-4.md\:gap-4.md\:grid-cols-2.grid-cols-1.grid
 shinigami.*##.lg\:gap-4.gap-4.md\:grid-cols-1.grid-cols-1.grid
 shinigami.*#$#body, html { background-color: #000000 !important; }
 shinigami.*#%#//scriptlet('set-session-storage-item', 'showAdsGamePopup', 'true')
-shinigami.*##+js(no-setTimeout-if, /adsContent|(?=.*Ye\()(?=.*t\.apply)(?=.*arguments:s)/, 300)
+shinigami.*#%#//scriptlet('prevent-setTimeout', '/adsContent|(?=.*Ye\()(?=.*t\.apply)(?=.*arguments:s)/', '300')
 
 !samehadaku
 samehadaku.*###server > p
@@ -112,12 +112,12 @@ ngefilm.*##.idmuvi-topbanner-aftermenu
 !media
 ||1a-1791.com^$media
 
-!PopUp
-rpmlive.online#%#//scriptlet('prevent-window-open')
-yourupload.*#%#//scriptlet('abort-on-property-write', '_pop')
+!xhr
+||filedon.co^$xhr
 
 !image Blocked
 .gif$image,domain=oploverz.*|shinigami.*|anoboy.*|otakudesu.*|anichin.*|samehadaku.*
 
-!xhr
-||filedon.co^$xhr
+!PopUp
+rpmlive.online#%#//scriptlet('prevent-window-open')
+yourupload.*#%#//scriptlet('abort-on-property-write', '_pop')
