@@ -115,6 +115,7 @@ ngefilm.*##.idmuvi-topbanner-aftermenu
 .gif$image,domain=oploverz.*|shinigami.*|anoboy.*|otakudesu.*|anichin.*|samehadaku.*
 
 !PopUp
-rpmlive.online##+js(no-window-open-if)
+rpmlive.*##+js(no-window-open-if)
+streampoi.*##+js(prevent-window-open)
 yourupload.*##+js(abort-on-property-write, _pop)
 
