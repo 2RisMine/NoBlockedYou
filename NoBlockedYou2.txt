@@ -1,5 +1,5 @@
 ! Title: NoBlockedYou
-! Last modified: 13 Juli 2026
+! Last modified: 28 Juli 2026
 ! Homepage: https://github.com/2RisMine/NoBlockedYou
 ! This script is specifically for AdGuard!
 
