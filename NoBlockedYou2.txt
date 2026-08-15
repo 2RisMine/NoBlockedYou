@@ -1,5 +1,5 @@
 ! Title: NoBlockedYou
-! Last modified: 28 Juli 2026
+! Last modified: 16 Aug 2026
 ! Homepage: https://github.com/2RisMine/NoBlockedYou
 ! This script is specifically for AdGuard!
 
@@ -29,13 +29,6 @@ colamanga.*##.layui-layer-content
 colamanga.*##.layui-layer-shade
 colamanga.*#$#html { overflow: auto !important; }
 colamanga.*#%#//scriptlet('prevent-setTimeout', 'loadErrorTip')
-
-!komikCast
-komikcast.*##button[aria-label="Close ads"]
-komikcast.*##a[rel*="noreferrer"][aria-label*="ad"]
-komikcast.*#%#//scriptlet('prevent-fetch', 'googlesyndication.com')
-komikcast.*#$#.chapter-scrollbar.overflow-y-auto { overflow: visible !important; height: auto !important; }
-komikcast.*#%#(function(){ function patch(el){ if(el._patched) return; el._patched=true; el.scrollTo=function(options){ if(typeof options==='object'){ window.scrollTo(options); } else { window.scrollTo(0, options); } }; el.scrollBy=function(options){ if(typeof options==='object'){ window.scrollBy(options); } else { window.scrollBy(0, options); } }; Object.defineProperty(el,'scrollTop',{ configurable:true, get:function(){ return window.scrollY; }, set:function(val){ window.scrollTo(0, val); } }); Object.defineProperty(el,'scrollHeight',{ configurable:true, get:function(){ return document.documentElement.scrollHeight; } }); Object.defineProperty(el,'clientHeight',{ configurable:true, get:function(){ return window.innerHeight; } }); window.addEventListener('scroll', function(){ el.dispatchEvent(new Event('scroll', {bubbles:true})); }, {passive:true}); } function find(){ var el=document.querySelector('.chapter-scrollbar.overflow-y-auto'); if(el) patch(el); } var observer=new MutationObserver(find); observer.observe(document.body,{childList:true,subtree:true}); find(); })();
 
 !kiryuu
 kiryuu03.*###floatPopup
@@ -108,6 +101,9 @@ tukangkomik.*#%#//scriptlet('prevent-window-open')
 ngefilm.*##.idmuvi-topbanner
 ngefilm.*##.idmuvi-topplayer
 ngefilm.*##.idmuvi-topbanner-aftermenu
+
+!voratoon
+voratoon.*##aside[aria-label="Sponsored"]
 
 !media
 ||1a-1791.com^$media
