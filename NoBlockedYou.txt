@@ -106,6 +106,9 @@ ngefilm.*##.idmuvi-topbanner
 ngefilm.*##.idmuvi-topplayer
 ngefilm.*##.idmuvi-topbanner-aftermenu
 
+!voratoon
+voratoon.*##aside[aria-label="Sponsored"]
+
 !media
 ||1a-1791.com^$media
 
