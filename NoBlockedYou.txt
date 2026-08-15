@@ -1,5 +1,5 @@
 ! Title: NoBlockedYou
-! Last modified: 13 Juli 2026
+! Last modified: 16 Aug 2026
 ! Homepage: https://github.com/2RisMine/NoBlockedYou
 
 !anoboy
@@ -28,11 +28,6 @@ colamanga.*##.layui-layer-content
 colamanga.*##.layui-layer-shade
 colamanga.*#$#html { overflow: auto !important; }
 colamanga.*##+js(nostif, loadErrorTip)
-
-!komikCast
-komikcast.*##button[aria-label="Close ads"]
-komikcast.*##a[rel*="noreferrer"][aria-label*="ad"]
-komikcast.*##+js(no-fetch-if, googlesyndication.com)
 
 !kiryuu
 kiryuu03.*###floatPopup
