@@ -1,5 +1,5 @@
 ! Title: NoBlockedYou
-! Last modified: 25 Sep 2026
+! Last modified: 14 Oct 2026
 ! Homepage: https://github.com/2RisMine/NoBlockedYou
 
 !anoboy
@@ -103,6 +103,7 @@ ngefilm.*##.idmuvi-topbanner-aftermenu
 
 !voratoon
 voratoon.*##aside[aria-label="Sponsored"]
+voratoon.*##+js(prevent-requestAnimationFrame, showModal)
 
 !media
 ||1a-1791.com^$media
