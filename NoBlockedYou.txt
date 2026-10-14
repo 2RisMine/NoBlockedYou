@@ -64,7 +64,7 @@ idlixku.*##.lg\:px-12.sm\:px-6.px-4.sm\:my-6.my-4
 z2.idlixku.com#@#+js(no-fetch-if, method:HEAD)
 
 !shinigami
-@@||ads.shinigami.io
+@@||ads.shinigami.io^
 shinigami.*##.gap-4.md\:gap-4.md\:grid-cols-2.grid-cols-1.grid
 shinigami.*##.lg\:gap-4.gap-4.md\:grid-cols-1.grid-cols-1.grid
 shinigami.*##+js(set-session-storage-item, showAdsGamePopup, true)
