@@ -1,5 +1,5 @@
 ! Title: NoBlockedYou
-! Last modified: 14 Oct 2026
+! Last modified: 15 Nov 2026
 ! Homepage: https://github.com/2RisMine/NoBlockedYou
 ! This script is specifically for AdGuard!
 
@@ -62,6 +62,9 @@ nontonanimeid.*##.notice-iklan.redtext.tagpst1
 !idlix
 idlixku.*##.h-auto.w-full
 idlixku.*##.lg\:px-12.sm\:px-6.px-4.sm\:my-6.my-4
+
+!softkomik
+softkomik.*#%#//scriptlet('prevent-fetch', 'pagead2.googlesyndication.com')
 
 !shinigami
 @@||ads.shinigami.io^
